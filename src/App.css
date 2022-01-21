@@ -1,0 +1,47 @@
+.App{
+    background-image: linear-gradient( 135deg, #E8D07A 10%, #5312D6 100%);
+    height: 100vh;
+
+}
+.add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.titre{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100 auto;
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
+.liste{
+margin-left: 100px;
+}
+button{
+    
+    border: none;
+  border-radius: 8px;
+  color:black;
+  font-size: 14px;
+  font-weight: bold;
+}
+.liste p{
+    color:rgb(75, 70, 70);
+    font-size:medium;
+    font-style: oblique;
+
+}
+
+.green{
+    text-decoration: line-through;
+    color: green;
+}
+.red{
+    color:red;
+}
